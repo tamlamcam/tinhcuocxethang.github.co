@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 
-st.set_page_config(page_title="Tính giá thuê xe", layout="centered")
+st.set_page_config(page_title="Tính giá thuê xe", layout="wide")
 
 st.title("🚗 Phần mềm tính giá thuê xe")
 
